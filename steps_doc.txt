@@ -1,0 +1,4 @@
+1. Create a data bricks notebook
+2. Attach an interactive cluster to run the notebook/ You can choose a job cluster but you not have full control over running the cells
+3. Run the code file
+4. Add new comments to see results 
